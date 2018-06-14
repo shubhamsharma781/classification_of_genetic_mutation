@@ -1,4 +1,4 @@
-# The link for obtaing the dataset is - "https://www.kaggle.com/c/msk-redefining-cancer-treatment/data"
+# The link for the dataset is - "https://www.kaggle.com/c/msk-redefining-cancer-treatment/data"
 
 library("readr")
 library("stringr")
